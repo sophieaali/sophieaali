@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sophieaali
 - 👀 I’m interested in Data Science, weight lifting and dog agility. 
-- 🌱 I’m currently learning how to apply data science to my own personal investing.
+- 🌱 I’m currently learning how to apply data science to my own personal investing journey.
 - 💞️ I’m looking to collaborate on kaggle competitions. 
 - 📫 How to reach me sophieaali99@gmail.com
 
